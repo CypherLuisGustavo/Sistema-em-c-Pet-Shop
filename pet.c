@@ -189,8 +189,6 @@ void mostrarConteudoArquivo(const char *nome_arquivo) {
 
     fclose(arquivo);
 }
-#include <stdio.h>
-#include "petshop.h"
 
 void exibirMenu() {
     printf("\n===========================================\n");
@@ -255,4 +253,5 @@ int main() {
 
     return 0;
 }
+
 
