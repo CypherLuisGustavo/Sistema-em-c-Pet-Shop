@@ -1,7 +1,7 @@
-#ifndef dados_h
-#define dados_h
+#ifndef DADOS_H
+#define DADOS_H
 
-#define maximo_pet 100;
+#define MAXIMO_PET 100;
 typedef struct{
   char nome_pet[50];
   char tipo_pet[30];
